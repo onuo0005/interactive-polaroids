@@ -34,21 +34,21 @@ html {
 }
 
 .polaroid:first-child {
-  top: 151.8px;
-  left: 30%;
+  top: 75.9px;
+  left: 192px;
   transform: rotate(-10deg);
 }
 
 .polaroid:nth-child(2) {
-  left: 40%;
-  top: 227.7px;
+  left: 288px;
+  top: 151.8px;
   transform: rotate(5deg);
   z-index: 15;
 }
 
 .polaroid:last-child {
-  top: 151.8px;
-  left: 50%;
+  top: 75.9px;
+  left: 384px;
   transform: rotate(30deg);
 }
 
